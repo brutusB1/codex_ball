@@ -41,6 +41,33 @@ cfbmeta --date 20231021 --top 8
 
 Running `cfbmeta --help` prints the full list of options.
 
+## Web Interface
+
+A simple Streamlit web interface is available for easy access via browser:
+
+### Running Locally
+
+```bash
+# Install dependencies
+pip install -e .
+
+# Launch the web app
+streamlit run app.py
+```
+
+The app will open automatically in your browser at `http://localhost:8501`.
+
+### Cloud Hosting
+
+To host this app online for free:
+
+1. Push your code to GitHub
+2. Go to [Streamlit Community Cloud](https://share.streamlit.io/)
+3. Connect your GitHub repository
+4. Deploy the app by pointing to `app.py`
+
+The app will be accessible via a public URL that Streamlit provides.
+
 ## Development
 
 Install the development dependencies and run the tests:
