@@ -1,0 +1,208 @@
+{
+  "events": [
+    {
+      "id": "401514123",
+      "competitions": [
+        {
+          "id": "401514123",
+          "date": "2023-10-21T23:30Z",
+          "status": {
+            "type": {
+              "name": "STATUS_IN_PROGRESS",
+              "state": "in",
+              "period": 4,
+              "displayClock": "02:15"
+            }
+          },
+          "broadcasts": [
+            {
+              "media": "TV",
+              "names": ["ESPN"]
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "score": "24",
+              "team": {
+                "displayName": "Oregon Ducks",
+                "abbreviation": "ORE",
+                "rank": 9
+              },
+              "records": [
+                {"summary": "6-1"}
+              ]
+            },
+            {
+              "homeAway": "away",
+              "score": "21",
+              "team": {
+                "displayName": "Washington State Cougars",
+                "abbreviation": "WSU"
+              },
+              "records": [
+                {"summary": "5-2"}
+              ]
+            }
+          ],
+          "venue": {"fullName": "Autzen Stadium"},
+          "headlines": [
+            {"shortLinkText": "Ducks convert late fourth down"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "401514200",
+      "competitions": [
+        {
+          "id": "401514200",
+          "date": "2023-10-21T22:00Z",
+          "status": {
+            "type": {
+              "name": "STATUS_IN_PROGRESS",
+              "state": "in",
+              "period": 3,
+              "displayClock": "08:45"
+            }
+          },
+          "broadcasts": [
+            {
+              "media": "TV",
+              "names": ["FOX"]
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "score": "35",
+              "team": {
+                "displayName": "USC Trojans",
+                "abbreviation": "USC",
+                "rank": 13
+              },
+              "records": [
+                {"summary": "6-1"}
+              ]
+            },
+            {
+              "homeAway": "away",
+              "score": "10",
+              "team": {
+                "displayName": "Utah Utes",
+                "abbreviation": "UTAH",
+                "rank": 14
+              },
+              "records": [
+                {"summary": "6-1"}
+              ]
+            }
+          ],
+          "venue": {"fullName": "Los Angeles Memorial Coliseum"}
+        }
+      ]
+    },
+    {
+      "id": "401514300",
+      "competitions": [
+        {
+          "id": "401514300",
+          "date": "2023-10-22T00:00Z",
+          "status": {
+            "type": {
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "period": 0,
+              "displayClock": ""
+            }
+          },
+          "broadcasts": [
+            {
+              "media": "TV",
+              "names": ["ABC"]
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "score": "0",
+              "team": {
+                "displayName": "Alabama Crimson Tide",
+                "abbreviation": "BAMA",
+                "rank": 11
+              },
+              "records": [
+                {"summary": "6-1"}
+              ]
+            },
+            {
+              "homeAway": "away",
+              "score": "0",
+              "team": {
+                "displayName": "Tennessee Volunteers",
+                "abbreviation": "TENN",
+                "rank": 17
+              },
+              "records": [
+                {"summary": "5-2"}
+              ]
+            }
+          ],
+          "venue": {"fullName": "Bryant-Denny Stadium"},
+          "odds": [
+            {"details": "BAMA -7.5"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "401514400",
+      "competitions": [
+        {
+          "id": "401514400",
+          "date": "2023-10-21T20:00Z",
+          "status": {
+            "type": {
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "period": 4,
+              "displayClock": "0:00"
+            }
+          },
+          "broadcasts": [
+            {
+              "media": "TV",
+              "names": ["CBS Sports Network"]
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "score": "27",
+              "team": {
+                "displayName": "Air Force Falcons",
+                "abbreviation": "AF",
+                "rank": 25
+              },
+              "records": [
+                {"summary": "7-0"}
+              ]
+            },
+            {
+              "homeAway": "away",
+              "score": "24",
+              "team": {
+                "displayName": "Navy Midshipmen",
+                "abbreviation": "NAVY"
+              },
+              "records": [
+                {"summary": "3-4"}
+              ]
+            }
+          ],
+          "venue": {"fullName": "Falcon Stadium"}
+        }
+      ]
+    }
+  ]
+}
